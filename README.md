@@ -79,12 +79,12 @@ python main.py
 Abra o seu navegador e acesse http://localhost:3000 (substitua pela porta correta indicada no seu terminal) para visualizar a aplicação.
 
 ## 🧮 Como Funciona
-A aplicação utiliza fórmulas padrão para converter dados de atividades cotidianas em métricas de gases de efeito estufa. 
-A equação geral aplicada nos bastidores é:
-$$\text{Emissões Totais } (kg \cdot CO_2e) = \text{Dados de Atividade} \times \text{Fator de Emissão}$$
-Onde:Dados de Atividade: Unidades como quilômetros rodados ($km$), quilowatts-hora consumidos ($kWh$) ou quilos de resíduos gerados ($kg$).
-Fator de Emissão: O valor constante que determina quanto $CO_2$ é produzido por unidade daquela atividade específica.
+* A aplicação utiliza fórmulas padrão para converter dados de atividades cotidianas em métricas de gases de efeito estufa. 
+* A equação geral aplicada nos bastidores é:
+* $$\text{Emissões Totais } (kg \cdot CO_2e) = \text{Dados de Atividade} \times \text{Fator de Emissão}$$
+* Onde:Dados de Atividade: Unidades como quilômetros rodados ($km$), quilowatts-hora consumidos ($kWh$) ou quilos de resíduos gerados ($kg$).
+* Fator de Emissão: O valor constante que determina quanto $CO_2$ é produzido por unidade daquela atividade específica.
 
 ## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-Sinta-se à vontade para abrir Issues ou Pull Requests para melhorar a calculadora!
+* Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+* Sinta-se à vontade para abrir Issues ou Pull Requests para melhorar a calculadora!
